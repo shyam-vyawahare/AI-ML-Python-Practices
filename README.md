@@ -26,7 +26,7 @@ This repository prioritizes **implementation over theory**, focusing only on con
 ---
 
 ## 🗂 Repository Structure
-
+```
 AI-ML-Python-Practices/
 │
 ├── python_basics/
@@ -61,7 +61,7 @@ AI-ML-Python-Practices/
 │ └── ai_applications/
 │
 └── README.md
-
+```
 ---
 
 ## 🛠 Tech Stack
