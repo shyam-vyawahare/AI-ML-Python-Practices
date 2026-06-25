@@ -115,16 +115,8 @@ with torch.no_grad():
     print("\nFinal Predictions:")
     print(predictions.round())
 
-
 # -------------------------------
-# 8. EXECUTION CHECK
-# -------------------------------
-
-if __name__ == "__main__":
-    print("\npytorch_basics.py executed successfully")
-
-# -------------------------------
-# 9. DATASET & DATALOADER
+# 8. DATASET & DATALOADER
 # -------------------------------
 
 from torch.utils.data import TensorDataset, DataLoader
@@ -151,7 +143,7 @@ for batch_features, batch_labels in train_loader:
 
 
 # -------------------------------
-# 10. INFERENCE MODE
+# 9. INFERENCE MODE
 # -------------------------------
 
 model.eval()
@@ -165,8 +157,15 @@ print(prediction)
 
 
 # -------------------------------
-# 11. MODEL SUMMARY
+# 10. MODEL SUMMARY
 # -------------------------------
 
 print("\nModel Architecture:")
 print(model)
+
+# -------------------------------
+# 11. EXECUTION CHECK
+# -------------------------------
+
+if __name__ == "__main__":
+    print("\npytorch_basics.py executed successfully")
