@@ -122,3 +122,51 @@ with torch.no_grad():
 
 if __name__ == "__main__":
     print("\npytorch_basics.py executed successfully")
+
+# -------------------------------
+# 9. DATASET & DATALOADER
+# -------------------------------
+
+from torch.utils.data import TensorDataset, DataLoader
+
+# Create a dataset
+dataset = TensorDataset(X, y)
+
+# Create a DataLoader
+train_loader = DataLoader(
+    dataset,
+    batch_size=2,
+    shuffle=True
+)
+
+print("\nMini-batches:")
+
+for batch_features, batch_labels in train_loader:
+    print("Features:")
+    print(batch_features)
+
+    print("Labels:")
+    print(batch_labels)
+    print("-" * 30)
+
+
+# -------------------------------
+# 10. INFERENCE MODE
+# -------------------------------
+
+model.eval()
+
+with torch.no_grad():
+    sample = torch.tensor([[1.0, 0.0]])
+    prediction = model(sample)
+
+print("\nInference Example:")
+print(prediction)
+
+
+# -------------------------------
+# 11. MODEL SUMMARY
+# -------------------------------
+
+print("\nModel Architecture:")
+print(model)
