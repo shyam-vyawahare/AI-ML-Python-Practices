@@ -54,7 +54,8 @@ AI-ML-Python-Practices/
 ├── deep_learning/
 │ ├── neural_network_from_scratch.py
 │ ├── pytorch_basics.py
-│ └── training_loops.py
+│ ├── training_loops.py
+| └── dropout_regularization.py
 │
 ├── projects/
 │ ├── ml_mini_projects/
