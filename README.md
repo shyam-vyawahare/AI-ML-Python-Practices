@@ -26,6 +26,8 @@ This repository prioritizes **implementation over theory**, focusing only on con
 ---
 
 ## 🗂 Repository Structure
+> ⚠️ This is just a File Structure Blue print, there more files to practice and have a look on than what is shown here…! <br>
+> Learn More, Learn Better…!
 ```
 AI-ML-Python-Practices/
 │
