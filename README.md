@@ -59,7 +59,8 @@ AI-ML-Python-Practices/
 │ ├── training_loops.py
 │ ├── batch_normalization.py
 │ ├── dropout_regularization.py
-│ └── Add Batch Normalization example using PyTorch
+│ ├── Add Batch Normalization example using PyTorch
+│ └── learning_rate_scheduler.py
 │
 ├── projects/
 │ ├── ml_mini_projects/
