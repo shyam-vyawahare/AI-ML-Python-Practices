@@ -50,6 +50,7 @@ AI-ML-Python-Practices/
 ├── machine_learning/
 │ ├── regression.py
 │ ├── classification.py
+│ ├── knn_Classifier.py
 │ ├── model_evaluation.py
 │ └── pipelines.py
 │
