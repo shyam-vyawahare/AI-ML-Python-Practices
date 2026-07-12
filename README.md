@@ -99,8 +99,5 @@ AI-ML-Python-Practices/
 
 ---
 
-**Author:** Ultrex  
+**Author:** Shyam Vyawahare
 **Focus:** Python • AI • Machine Learning • Real-World Engineering
-
-
-
