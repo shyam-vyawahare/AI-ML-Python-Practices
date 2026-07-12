@@ -55,6 +55,7 @@ AI-ML-Python-Practices/
 │ └── pipelines.py
 │
 ├── deep_learning/
+│ ├── cnn_basics.py
 │ ├── neural_network_from_scratch.py
 │ ├── pytorch_basics.py
 │ ├── training_loops.py
