@@ -63,6 +63,7 @@ AI-ML-Python-Practices/
 │ ├── dropout_regularization.py
 │ ├── Add Batch Normalization example using PyTorch
 │ ├── learning_rate_scheduler.py
+│ ├── pooling_layers.py
 │ └── weight_initialization.py
 │
 ├── projects/
