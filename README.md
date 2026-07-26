@@ -48,6 +48,7 @@ AI-ML-Python-Practices/
 │
 ├── math_for_ml/
 │ ├── cost_function.py
+│ ├── gradients.py
 │ ├── linear_algebra.py
 │ ├── statistics.py
 │ └── gradients.py
