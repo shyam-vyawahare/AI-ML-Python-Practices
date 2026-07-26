@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 25th of July 2026
+## Last Updated - 26th of July 2026
 
 ---
 
@@ -41,6 +41,7 @@ AI-ML-Python-Practices/
 │
 ├── data_handling/
 │ ├── numpy_basics.py
+│ ├── handling_datetime.py
 │ ├── pandas_operations.py
 │ ├── pandas_merge_groupby.py
 │ └── data_cleaning.py
