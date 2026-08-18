@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 15th of August 2026
+## Last Updated - 18th of August 2026
 
 ---
 
@@ -66,6 +66,7 @@ AI-ML-Python-Practices/
 ├── machine_learning/
 │ ├── regression.py
 │ ├── classification.py
+│ ├── classification_metrics.py
 │ ├── knn_Classifier.py
 │ ├── model_evaluation.py
 │ ├── pipelines.py
