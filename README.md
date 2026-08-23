@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 18th of August 2026
+## Last Updated - 23rd of August 2026
 
 ---
 
@@ -72,6 +72,7 @@ AI-ML-Python-Practices/
 │ ├── pipelines.py
 │ ├── pipeline_preprocessing.py
 │ ├── feature_selection.py
+│ ├── imbalanced_data.py
 │ └── hyperparameter_tuning.py
 │
 ├── deep_learning/
