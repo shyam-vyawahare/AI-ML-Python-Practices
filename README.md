@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 25th of August 2026
+## Last Updated - 26th of August 2026
 
 ---
 
@@ -75,6 +75,7 @@ AI-ML-Python-Practices/
 │ ├── imbalanced_data.py
 │ ├── ensemble_learning.py
 │ ├── regression_models.py
+│ ├── regression_trees.py
 │ └── hyperparameter_tuning.py
 │
 ├── deep_learning/
