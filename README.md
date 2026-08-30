@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 29th of August 2026
+## Last Updated - 30th of August 2026
 
 ---
 
@@ -63,6 +63,7 @@ AI-ML-Python-Practices/
 │ ├── svd_basics.py
 │ ├── optimization_algorithms.py
 │ ├── gradient_checking.py
+│ ├── bayes_theorem.py
 │ └── vector_norms.py
 │
 ├── machine_learning/
