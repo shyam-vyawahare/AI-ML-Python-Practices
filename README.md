@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 9th of September 2026
+## Last Updated - 11th of September 2026
 
 ---
 
@@ -37,6 +37,7 @@ AI-ML-Python-Practices/
 │ ├── control_flow.py
 │ ├── syntax_revision.py
 │ ├── data_structures.py
+│ ├── decorators.py
 │ ├── functions.py
 │ ├── file_handling.py
 │ ├── oop_basics.py
