@@ -39,6 +39,7 @@ AI-ML-Python-Practices/
 │ ├── syntax_revision.py
 │ ├── data_structures.py
 │ ├── decorators.py
+│ ├── dataclasses.py
 │ ├── functions.py
 │ ├── file_handling.py
 │ ├── oop_basics.py
