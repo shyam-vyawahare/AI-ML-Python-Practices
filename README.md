@@ -104,7 +104,9 @@ AI-ML-Python-Practices/
 │
 ├── projects/
 │ ├── ml_mini_projects/
-│ └── ai_applications/
+│ ├── ai_applications/
+│ ├── model_persistence.py
+│ └── text_classification_pipeline.py
 │
 └── README.md
 ```
