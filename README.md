@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 21st of September 2026
+## Last Updated - 22nd of September 2026
 
 ---
 
@@ -107,6 +107,7 @@ AI-ML-Python-Practices/
 │ ├── ai_applications/
 │ ├── model_persistence.py
 │ ├── mini_rag_pipeline.py
+│ ├── llm_rag_pipeline.py
 │ ├── semantic_search.py
 │ ├── text_classification_pipeline.py
 │ ├── text_chunking.py
