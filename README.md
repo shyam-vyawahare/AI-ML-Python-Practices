@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 27th of September 2026
+## Last Updated - 28th of September 2026
 
 ---
 
@@ -117,6 +117,7 @@ AI-ML-Python-Practices/
 │ ├── rag_hallucination_detection.py
 │ ├── rag_hybrid_search.py
 │ ├── rag_reranking.py
+│ ├── rag_query_rewriting.py
 │ └── vector_store_from_scratch.py
 │
 └── README.md
