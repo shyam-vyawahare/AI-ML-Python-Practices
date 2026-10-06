@@ -116,6 +116,7 @@ AI-ML-Python-Practices/
 │ ├── text_embedding_similarity.py
 │ ├── rag_conversation_memory.py
 │ ├── rag_context_compression.py
+│ ├── rag_document_ingestion.py
 │ ├── rag_evaluation.py
 │ ├── rag_evaluation_pipeline.py
 │ ├── rag_hallucination_detection.py
