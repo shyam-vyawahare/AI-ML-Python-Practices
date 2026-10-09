@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 7th of October 2026
+## Last Updated - 9th of October 2026
 
 ---
 
@@ -125,6 +125,7 @@ AI-ML-Python-Practices/
 │ ├── rag_metadata_filtering.py
 │ ├── rag_reciprocal_rank_fusion.py
 │ ├── rag_reranking.py
+│ ├── rag_parent_child_retrieval.py
 │ ├── rag_query_rewriting.py
 │ └── vector_store_from_scratch.py
 │
