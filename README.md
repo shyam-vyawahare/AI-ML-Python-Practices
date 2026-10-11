@@ -114,6 +114,7 @@ AI-ML-Python-Practices/
 │ ├── text_classification_pipeline.py
 │ ├── text_chunking.py
 │ ├── text_embedding_similarity.py
+│ ├── rag_adaptive_retrieval.py
 │ ├── rag_conversation_memory.py
 │ ├── rag_context_compression.py
 │ ├── rag_contextual_retrieval.py
