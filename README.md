@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 16th of October 2026
+## Last Updated - 17th of October 2026
 
 ---
 
@@ -114,6 +114,7 @@ AI-ML-Python-Practices/
 │ ├── text_classification_pipeline.py
 │ ├── text_chunking.py
 │ ├── text_embedding_similarity.py
+│ ├── rag_access_control.py
 │ ├── rag_adaptive_retrieval.py
 │ ├── rag_conversation_memory.py
 │ ├── rag_context_compression.py
