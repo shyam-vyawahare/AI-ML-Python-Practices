@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 24th of October 2026
+## Last Updated - 25th of October 2026
 
 ---
 
@@ -136,6 +136,7 @@ AI-ML-Python-Practices/
 │ ├── rag_self_reflection.py
 │ ├── rag_parent_child_retrieval.py
 │ ├── rag_parent_document_retrieval.py
+│ ├── rag_observability.py
 │ ├── rag_query_rewriting.py
 │ ├── rag_query_routing.py
 │ ├── rag_query_decomposition.py
