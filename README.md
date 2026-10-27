@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 25th of October 2026
+## Last Updated - 27th of October 2026
 
 ---
 
@@ -117,6 +117,7 @@ AI-ML-Python-Practices/
 │ ├── rag_ab_testing.py
 │ ├── rag_access_control.py
 │ ├── rag_adaptive_retrieval.py
+│ ├── rag_answer_grounding.py
 │ ├── rag_citation_validation.py
 │ ├── rag_confidence_scoring.py
 │ ├── rag_conversation_memory.py
