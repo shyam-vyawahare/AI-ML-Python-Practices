@@ -4,7 +4,7 @@ A code-first Python revision repository designed to build strong foundations in 
 
 This repository prioritizes **implementation over theory**, focusing only on concepts that matter in real-world AI and ML workflows.
 
-## Last Updated - 31st of October 2026
+## Last Updated - 1st of November 2026
 
 ---
 
@@ -146,6 +146,7 @@ AI-ML-Python-Practices/
 │ ├── rag_retrieval_ablation.py
 │ ├── rag_retrieval_benchmark.py
 │ ├── rag_retrieval_diagnostics.py
+│ ├── rag_retrieval_fusion.py
 │ └── vector_store_from_scratch.py
 │
 └── README.md
