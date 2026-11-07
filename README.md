@@ -184,4 +184,4 @@ AI-ML-Python-Practices/
 ---
 
 **Author:** Shyam Vyawahare
-**Focus:** Python • AI • Machine Learning • Real-World Engineering
+*Focus:* Python • AI • Machine Learning • Real-World Engineering
